@@ -1,0 +1,21 @@
+Algorithm
+1. Start
+2. Input the value of n
+3. Initialize sum = 0
+4. For i = 1 to n:
+      a. If i % 2 == 0:
+            i. sum = sum + i
+5. Output sum
+6. End
+
+Pseudocode
+START
+    INPUT n
+    sum ← 0
+    FOR i ← 1 TO n DO
+        IF i MOD 2 = 0 THEN
+            sum ← sum + i
+        ENDIF
+    ENDFOR
+    OUTPUT sum
+END
